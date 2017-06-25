@@ -1,4 +1,5 @@
-__author__ = "Samuel Bancroft"
+__author__ = "Mr Bancroft"
+
 # You can ignore this file if you do not feel able to grasp what is happening here
 # If you want to know, read on
 def check(stringToCheck):                               # This defines a function call check which needs a string passed to it
