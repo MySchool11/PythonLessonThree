@@ -1,5 +1,7 @@
+__author__ = "Mr Bancroft"
+
 import test
-__author__ = "Samuel Bancroft"
+
 print('''All variables in Python must star with a letter (upper or          
 lower case) or an underscore. you cannot use a number at the start
 or special characters anywhere in the name''')                          # Print information about variables
